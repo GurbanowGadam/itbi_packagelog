@@ -12,7 +12,7 @@ show_help() {
     echo "  -t, --time <start> <end>   : Listează operațiile între două date (Format: YYYY-MM-DD)."
     echo ""
     echo "Example:"
-    echo "  ./package_monitor.sh -t 2025-12-12 2026-01-05"
+    echo "  packagelog -t 2025-12-12 2026-01-05"
 }
 
 
